@@ -1,2 +1,2 @@
 # Pyber
-Marplotlib Homework
+Matplotlib Homework
